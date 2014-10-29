@@ -1,0 +1,25 @@
+{
+  "name": "puppetmaster",
+  "version": "0.1.0",
+  "description": "PuppetMaster",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Oehlman",
+  "license": "MIT",
+  "dependencies": {
+    "browserify-middleware": "^4.1.0",
+    "crel": "^2.1.5",
+    "eventemitter2": "^0.4.14",
+    "express": "^4.10.0",
+    "fdom": "^1.1.0",
+    "nib": "^1.0.4",
+    "qs": "^2.3.2",
+    "rtc-mesh": "^1.0.0",
+    "rtc-quickconnect": "^4.0.0",
+    "stylus": "^0.49.2",
+    "uuid": "^2.0.1"
+  },
+  "devDependencies": {}
+}
